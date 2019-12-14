@@ -17,6 +17,8 @@
 * [NViconsLib-Icons](https://www.easyicon.net/language.en/iconsearch/iconset:NViconsLib-icons/)
 * [Ouline_Simple-Icons](https://www.easyicon.net/language.en/iconsearch/iconset:ouline-Simple-Icons/)
 * [Photo by Nada Gamal on Unsplash](https://unsplash.com/photos/ojpMrh-SxhQ)
+* [FreeBSD Icon](https://freebiesupply.com/logos/freebsd-logo/)
+* [Linux Mint Icon](https://freebiesupply.com/logos/linux-mint-logo/)
 
 ## License
 * MIT License
